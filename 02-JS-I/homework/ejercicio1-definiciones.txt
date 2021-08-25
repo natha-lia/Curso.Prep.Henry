@@ -1,0 +1,14 @@
+Variables
+Es algo a lo que le puedo dar un valor y modificarlo luego
+
+Strings
+Es una letra o grupo de letras que forman un texto
+
+Funciones (argumentos, return)
+Son intrucciones que se deben seguir para que algo funcione de la manera esperada
+
+Declaraciones if
+Es algo que sirve para saber si hago algo o no dependiendo de lo que suceda
+
+Valores booleanos (true, false)
+Me sirve para saber si algo es verdad o mentira
